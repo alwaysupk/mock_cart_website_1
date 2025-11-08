@@ -34,7 +34,7 @@ All API calls are **mocked with simulated latency** to mimic real backend intera
 
 ---
 
-![screenshot of the website](.\src\assets\screenshot_example.jpg)
+![screenshot of the website](src/assets/screenshot_example.jpg)
 
 ##  Project Structure
 
